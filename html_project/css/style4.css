@@ -1,0 +1,10 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body {
+	background-image: url(../2.jpg);
+	height: 1000px;
+	background-size:  cover;
+ background-position: auto;
+}
